@@ -1,0 +1,23 @@
+{
+  "name": "usingnpm",
+  "version": "1.0.0",
+  "description": "Using NPM Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BdotWALL/UsingNPM_Activity.git"
+  },
+  "author": "Brandon Wall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BdotWALL/UsingNPM_Activity/issues"
+  },
+  "homepage": "https://github.com/BdotWALL/UsingNPM_Activity#readme",
+  "dependencies": {
+    "moment": "^2.29.2"
+  }
+}
